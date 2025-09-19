@@ -18,8 +18,8 @@ gpa_history = [2.9, 3.9, 4.2, 4.6]
 
 credit_dict = {"COMP 163": 3, "COMP 121": 3, "MATH 131": 3, "ENG 100": 3, "GEEN 111": 3}
 professors_dict = {"COMP 163": "Prof. Rhodes", "COMP 121": "Prof. Allen",
-                   "MATH 131": "Prof. Lee", "ENG 100": "Prof. Rush", "GEEN 111": "Prof. Parrish"}
-rooms_dict = {"COMP 163": "M-Eric 300", "COMP 121": "Marteena 105",
+                   "MATH 131": "Prof. Gibson", "ENG 100": "Prof. Rush", "GEEN 111": "Prof. Parrish"}
+rooms_dict = {"COMP 163": "M-Eric 3", "COMP 121": "Marteena 105",
               "MATH 131": "Marteena 224", "ENG 100": "Crosby 121", "GEEN 111": "McNair 210"}
 
 # --- Budget & Study ---
@@ -28,7 +28,7 @@ study_dict = {"Programming": 10, "Math": 8, "English": 4, "Engineering": 3}
 
 # --- Contacts & Social Media ---
 emergency_contact = ("Mom", "Kia McDaniel", "301-263-5223")
-home_address = ("1011 Bohac Ln", "Accokeek", "MD", 28202)
+home_address = ("1011 Bohac Ln", "Accokeek", "MD", 2)
 
 instagram_info = ("Instagram", "@sirrche", 312)
 twitter_info = ("Twitter", "@chickencheesewraps", 127)

@@ -19,7 +19,7 @@ gpa_history = [2.9, 3.9, 4.2, 4.6]
 credit_dict = {"COMP 163": 3, "COMP 121": 3, "MATH 131": 3, "ENG 100": 3, "GEEN 111": 3}
 professors_dict = {"COMP 163": "Prof. Rhodes", "COMP 121": "Prof. Allen",
                    "MATH 131": "Prof. Gibson", "ENG 100": "Prof. Rush", "GEEN 111": "Prof. Parrish"}
-rooms_dict = {"COMP 163": "M-Eric 3", "COMP 121": "Marteena 105",
+rooms_dict = {"COMP 163": "Gibbs 337", "COMP 121": "Graham 210",
               "MATH 131": "Marteena 224", "ENG 100": "Crosby 121", "GEEN 111": "McNair 210"}
 
 # --- Budget & Study ---
